@@ -1,5 +1,7 @@
 # files to ignore
 config.js
+GeoObjects.js
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
